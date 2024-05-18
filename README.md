@@ -1,3 +1,3 @@
-# Roadmap para a linguagem CSharp ![CSharp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AC_Sharp_Icon.png&psig=AOvVaw0TrqziqAW-hiaJN2yR1Sxx&ust=1716160200672000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDZq42pmIYDFQAAAAAdAAAAABAI)
+# Roadmap para a linguagem CSharp ![CSharp](https://camo.githubusercontent.com/6d59b4ecdd84c7ac91535c70b8e1bb31803e35072d71a3a4430f37dd53eded0f/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f6373686172705f6f726967696e616c5f6c6f676f5f69636f6e5f3134363537382e706e67)
 
 Um pequeno roadmap pela linguagem C#
